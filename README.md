@@ -3,6 +3,11 @@ Efficient Data Lake Management with Apache Hudi Cleaner: Benefits of Scheduling 
 
 ![12312](https://user-images.githubusercontent.com/39345855/230497227-ed9e4729-a714-44e9-a89a-73ed0794c69a.JPG)
 
+
+PDF  Guide how to setup Hudi in Glue 4.0
+https://drive.google.com/file/d/1mkED3AUZBARsgeRCzk0K0XMvSyajo7mQ/view
+
+
 PPT 
 * https://docs.google.com/presentation/d/1QzSSoASG63qwFglU5aX7GtpCYDCd24pZ/edit?usp=sharing&ouid=110372297813046523203&rtpof=true&sd=true
 
